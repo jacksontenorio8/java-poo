@@ -1,4 +1,4 @@
-package br.com.jacksontenorio8.variaveis.Livros;
+package br.com.jacksontenorio8.variaveis;
 
 public class Hobbits {
     String name;
